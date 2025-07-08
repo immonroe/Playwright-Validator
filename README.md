@@ -2,8 +2,6 @@
 
 This project features an automated script designed to validate the order of articles on the "Newest" section of Hacker News. It demonstrates capabilities in web automation, dynamic content handling, data extraction, and programmatic validation using modern JavaScript tools.
 
-![Hacker News Screenshot](https://placehold.co/1200x650/F0F0F0/333333?text=Hacker+News+Validation+Script+Running)
-
 ## How It's Made:
 
 **Tech used:** Node.js, Playwright
